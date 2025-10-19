@@ -27,7 +27,7 @@ This project is built using standard database and query tools.
 
 | Component | Description |
 | :--- | :--- |
-| **Database** | PostgreSQL / MySQL / SQLite |
+| **Database** | MySQL|
 | **Language** | SQL (Structured Query Language) |
 | **Modeling** | Relational Database Model (E-R Diagram) |
 
